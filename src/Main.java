@@ -20,5 +20,7 @@ public class Main {
         System.out.println(y);
         int x = 23;
         System.out.println(x + 2);
+        int x = 27;
+        System.out.println(x - 2);
     }
 }
