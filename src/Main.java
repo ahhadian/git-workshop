@@ -18,9 +18,7 @@ public class Main {
         }
         int y = 75;
         System.out.println(y);
-        int x = 25;
+        int x = 23;
         System.out.println(x + 2);
-        int x = 27;
-        System.out.println(x - 2);
     }
 }
