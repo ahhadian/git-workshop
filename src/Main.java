@@ -16,6 +16,8 @@ public class Main {
                     System.out.println("partners forever :)");
             }
         }
+        int y = 85;
+        System.out.println(y);
         int x = 23;
         System.out.println(x + 2);
     }
