@@ -20,6 +20,7 @@ public class Main {
         System.out.println(y);
         int x = 23;
         System.out.println(x + 2);
+        System.out.println("ajskcbkjsacb");
     }
 
     public static void whatsapp() {
