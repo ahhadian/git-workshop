@@ -26,6 +26,9 @@ public class Main {
     public static void whatsapp() {
         System.out.println("hello how are you?");
     }
+    public static void telegram() {
+        System.out.println("hi, thanks");
+    }
 }
 
 class Person {
