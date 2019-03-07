@@ -4,13 +4,13 @@ public class Main {
         for (int i = 0; i < 3; i++) {
             switch (i) {
                 case 0:
-                    System.out.println("AmirHosein");
+                    System.out.println("AmirHosein Hadian");
                     break;
                 case 1:
-                    System.out.println("AliReza");
+                    System.out.println("Alireza Tajmirriahi");
                     break;
                 case 2:
-                    System.out.println("MohammadSadegh");
+                    System.out.println("MohammadSadegh Salimi");
             }
         }
     }
