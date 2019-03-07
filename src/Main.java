@@ -21,4 +21,8 @@ public class Main {
         int x = 23;
         System.out.println(x + 2);
     }
+
+    public static void whatsapp() {
+        System.out.println("hello how are you?");
+    }
 }
