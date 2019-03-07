@@ -30,5 +30,5 @@ public class Main {
 
 class Person {
     public int ID;
-
+    public String name;
 }
