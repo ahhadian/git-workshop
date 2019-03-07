@@ -16,9 +16,9 @@ public class Main {
                     System.out.println("partners forever :)");
             }
         }
-        int y = 85;
+        int y = 75;
         System.out.println(y);
-        int x = 23;
+        int x = 25;
         System.out.println(x + 2);
         int x = 27;
         System.out.println(x - 2);
