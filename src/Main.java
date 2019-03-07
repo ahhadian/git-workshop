@@ -10,7 +10,7 @@ public class Main {
                     System.out.println("AliReza");
                     break;
                 case 2:
-                    System.out.println("Sadegh");
+                    System.out.println("MohammadSadegh");
             }
         }
     }
