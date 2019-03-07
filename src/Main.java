@@ -27,3 +27,8 @@ public class Main {
         System.out.println("hello how are you?");
     }
 }
+
+class Person {
+    public int ID;
+
+}
